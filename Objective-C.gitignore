@@ -21,3 +21,4 @@ DerivedData
 
 # CocoaPods
 Pods
+# Podfile.lock # DO NOT IGNORE Podfile.lock. (https://github.com/thoughtbot/liftoff/issues/30)
